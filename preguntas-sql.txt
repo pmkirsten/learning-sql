@@ -1,0 +1,66 @@
+DIFICULTAD: Muy fácil
+1- Devuelve todas las películas
+2- Devuelve todos los géneros existentes
+3- Devuelve la lista de todos los estudios de grabación que estén activos
+4- Devuelve una lista de los 20 últimos miembros en anotarse a la plataforma
+DIFICULTAD: Fácil
+5- Devuelve las 20 duraciones de películas más frecuentes, ordenados de mayor a menor
+6- Devuelve las películas del año 2000 en adelante que empiecen por la letra A.
+7- Devuelve los actores nacidos un mes de Junio
+8- Devuelve los actores nacidos cualquier mes que no sea Junio y que sigan vivos
+9- Devuelve el nombre y la edad de todos los directores menores o iguales de 50 años que estén vivos
+10- Devuelve el nombre y la edad de todos los actores menores de 50 años que hayan fallecido
+11- Devuelve el nombre de todos los directores menores o iguales de 40 años que estén vivos
+12- Indica la edad media de los directores vivos
+13- Indica la edad media de los actores que han fallecido
+DIFICULTAD: Media
+14- Devuelve el nombre de todas las películas y el nombre del estudio que las ha realizado
+15- Devuelve los miembros que accedieron al menos una película entre el año 2010 y el 2015
+16- Devuelve cuantas películas hay de cada país
+17- Devuelve todas las películas que hay de género documental
+18- Devuelve todas las películas creadas por directores nacidos a partir de 1980 y que todavía están vivos
+19- Indica si hay alguna coincidencia de nacimiento de ciudad (y si las hay, indicarlas) entre los miembros de la plataforma y los directores
+20- Devuelve el nombre y el año de todas las películas que han sido producidas por un estudio que actualmente no esté activo
+21- Devuelve una lista de las últimas 10 películas a las que se ha accedido
+22- Indica cuántas películas ha realizado cada director antes de cumplir 41 años
+23- Indica cuál es la media de duración de las películas de cada director
+24- Indica cuál es la el nombre y la duración mínima de las películas a las que se ha accedido en los últimos 2 años por los miembros del plataforma (La “fecha de ejecución” de esta consulta es el 25-01-2019)
+25- Indica el número de películas que hayan hecho los directores durante las décadas de los 60, 70 y 80 que contengan la palabra “The” en cualquier parte del título
+DIFICULTAD: Difícil
+26- Lista nombre, nacionalidad y director de todas las películas
+27- Muestra las películas con los actores que han participado en cada una de ellas
+28- Indica cual es el nombre del director del que más películas se ha accedido
+29- Indica cuantos premios han ganado cada uno de los estudios con las películas que han creado
+30- Indica el número de premios a los que estuvo nominado un actor, pero que no ha conseguido (Si una película está nominada a un premio, su actor también lo está)
+31- Indica cuantos actores y directores hicieron películas para los estudios no activos
+32- Indica el nombre, ciudad, y teléfono de todos los miembros de la plataforma que hayan accedido películas que hayan sido nominadas a más de 150 premios y ganaran menos de 50
+33- Comprueba si hay errores en la BD entre las películas y directores (un director muerto en el 76 no puede dirigir una película en el 88)
+34- Utilizando la información de la sentencia anterior, modifica la fecha de defunción a un año más tarde del estreno de la película (mediante sentencia SQL)
+DIFICULTAD: Berserk mode (enunciados simples, mucha diversión…)
+35- Indica cuál es el género favorito de cada uno de los directores cuando dirigen una película
+36- Indica cuál es la nacionalidad favorita de cada uno de los estudios en la producción de las películas
+37- Indica cuál fue la primera película a la que accedieron los miembros de la plataforma cuyos teléfonos tengan como último dígito el ID de alguna nacionalidad
+Ejercicios extra
+DIFICULTAD: Muy fácil
+38- Devuelve una lista de los 10 usuarios con más tiempo de antigüedad en la plataforma
+39- Devuelve una lista con los nombres de los actores fallecidos.
+40- Devuelve una lista con todos los nombres de los directores que estén vivos.
+41- Devuelve el nombre y precio de todas las suscripciones disponibles en la plataforma
+42- Devuelve la cantidad total de películas registradas en la base de datos.
+43- Devuelve las 10 películas más largas registradas en la base de datos.
+DIFICULTAD: Fácil
+44- Devuelve la cantidad de películas accedidas por cada mes del año 2016
+DIFICULTAD: Medio
+45- Devuelve los nombres de los usuarios que han accedido a más de 5 películas
+46- Devuelve la cantidad de películas en las que ha participado cada actor.
+47- Devuelve el número de películas accedidas por tipo de suscripción
+48- Devuelve el número de películas accedidas por cada usuario
+49- Devuelve los nombres de los usuarios que solo han accedido a una película
+DIFICULTAD: Difícil
+50- Devuelve todas las películas que hayan sido accedidas con un tipo de acceso correspondiente a un tipo de suscripción específico , "Standard plan".
+51- Devuelve la cantidad total de premios ganados por cada director
+52- Devuelve los usuarios que han accedido películas cuyo género sea "Comedia" y accedido mas de 5 veces.
+53- Devuelve la cantidad total de películas en las que un actor y un director han trabajado juntos más de una vez.
+54- Encuentra el director que ha trabajado con el mayor número de nacionalidades diferentes en sus películas.
+DIFICULTAD: Berserk
+55- Indica cuáles son los estudios que han producido más películas en cada década y cuantas han realizado.
