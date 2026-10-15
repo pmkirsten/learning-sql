@@ -1,4 +1,3 @@
---CAMBIO 1
 --2026-MND-1
 --DIFICULTAD: Muy fácil
 --1- Devuelve todas las películas
